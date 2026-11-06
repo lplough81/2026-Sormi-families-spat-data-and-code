@@ -1,7 +1,7 @@
 library(glmnet)
 library(dplyr)
 library(ggplot2)
-library(patchwork)  # for side-by-side plots; install.packages("patchwork") if needed
+library(patchwork) 
 
 # ---- Prepare data ----
 auc_comp_minslope_vmax <- auc_comp_minslope_vmax %>%
