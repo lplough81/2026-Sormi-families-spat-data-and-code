@@ -3,6 +3,8 @@ library(dplyr)
 library(ggplot2)
 library(patchwork) 
 
+# auc_comp_minslope_vmax is Family_composite_data.csv
+
 # ---- Prepare data ----
 auc_comp_minslope_vmax <- auc_comp_minslope_vmax %>%
   mutate(
