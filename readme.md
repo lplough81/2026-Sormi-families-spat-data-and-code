@@ -11,4 +11,5 @@ summarized glycogen/resazurin data used in statistical analysis (csv dataset)\
 \
 **Code files:** \
 Resazurin processing code \
-Statistical analysis of effect of resazurin/glycogen content on survival during lab challenges...
+Statistical analysis of effect of resazurin/glycogen content on survival during lab challenges (Lasso analysis). 
+
