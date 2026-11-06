@@ -4,12 +4,11 @@ This repository contains **raw data** files and code used for analysis. Two kind
 
 **Data Files contained in this repository:** \
 raw plate files with fluorescence data (resazurin) \
-raw plate files with luminescence data (glycogen) \
 meta data and size data for the fluorescence data \
 summarized glycogen data (individual measurements) and mean/SE per family \
 summarized glycogen/resazurin data used in statistical analysis (csv dataset)\
 \
 **Code files:** \
 Resazurin processing code \
-Statistical analysis of effect of resazurin/glycogen content on survival during lab challenges (Lasso analysis). 
+Statistical analysis of effect of resazurin/glycogen content on survival during lab challenges (Lasso analysis and code.R). 
 
