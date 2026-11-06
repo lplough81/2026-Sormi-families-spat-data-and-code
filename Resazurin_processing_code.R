@@ -1,4 +1,4 @@
-# Processing code from Ariana Huffmyer's github page 
+# Processing code adapted from code on Ariana Huffmyer's github 
 
 # Load libraries. 
 ```{r}
